@@ -17,6 +17,13 @@ Clone the repository:
 
 ```git clone https://github.com/Raish07/BookLibrary```
 
+Navigate to the project directory:
+```cd bookstore-app```
+
+Install dependencies:
+```npm install```
+
+
 
 ### `npm test`
 
