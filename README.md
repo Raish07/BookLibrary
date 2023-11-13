@@ -15,7 +15,7 @@ Git
 ### Installation
 Clone the repository:
 
-```git clone <repository-url>
+```git clone https://github.com/Raish07/BookLibrary```
 
 
 ### `npm test`
