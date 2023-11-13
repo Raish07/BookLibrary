@@ -1,19 +1,22 @@
 # BookLibrary
 
 ## Introduction
-Welcome to the Bookstore App! This application is designed to help users explore, search, and add books to their cart for purchase. It also provides features like removing items from the cart, adjusting quantities, and more.
+Welcome to the BookLibrary App! This application is designed to help users explore, search, and add books to their cart for purchase. It also provides features like removing items from the cart, adjusting quantities, and more.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+### Prerequisites
+Make sure you have the following installed:
 
-### `npm start`
+Node.js
+npm (Node Package Manager)
+Git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
+Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git clone <repository-url>
+
 
 ### `npm test`
 
