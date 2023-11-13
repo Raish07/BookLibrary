@@ -15,7 +15,7 @@ Git
 ### Installation
 Clone the repository:
 
-git clone <repository-url>
+```git clone <repository-url>
 
 
 ### `npm test`
