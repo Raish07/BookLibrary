@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# BookLibrary
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Welcome to the Bookstore App! This application is designed to help users explore, search, and add books to their cart for purchase. It also provides features like removing items from the cart, adjusting quantities, and more.
 
 ## Available Scripts
 
